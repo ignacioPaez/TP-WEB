@@ -13,8 +13,8 @@
         <thead>
             <tr>
                 <th>Id</th>
-                <th>Peso</th>
                 <th>Precio</th>
+                <th>Peso</th>
                 <th>Color</th>
                 <th>Consumo</th>
                 <th>Carga</th>
